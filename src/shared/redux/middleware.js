@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const basedURL='http://localhost:3004/';
+const basedURL='https://jsonplaceholder.typicode.com/';
 const apiMiddleware =store=>next=>action=>{
 
     const {isEndpointCall,type}=action;
