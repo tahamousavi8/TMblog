@@ -1,2 +1,3 @@
 # TMblog
-TM Blog is a frontend app using React.js
+Using Frontend:React.js
+Backend:Json-server https://github.com/typicode/json-server
